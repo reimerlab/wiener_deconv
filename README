@@ -1,0 +1,11 @@
+# weiner_deconv
+Wiener deconvolution methods for recovering estimated concentration dynamics from fluorescence traces
+
+Noncausal Wiener deconvolution (deconv.py)
+These are functions . Here, concentrations are estimated using a time-domain representation of the
+(assumed single-exponential) impulse response for the fluorophore (see text in Neyhart, et al). The noise spectrum is assumed to be flat.
+
+This code also includes a method for estimating the parameter W based on empirical considerations. 
+
+Causal Wiener deconvolution (causal_deconv.py)
+This code was not used in Neyhart, et al but is included here for research purposes. This 
