@@ -13,6 +13,8 @@ This code was not used in (1) but is included here for research purposes. Causal
 Test notebook (test_deconv.py)
 Notebook for testing the noncausal deconvolution method
 
+Fluorescence data (fluorescence_detrended.csv)
+Detrended fluorescence data for use in the test notebook
 
 1) Neyhart, E et al. (2024; in press) Cortical acetylcholine dynamics are predicted by cholinergic axon activity and behavior state. Cell Reports.
 2) Lindell, Elisabeth. (2004) "On the Influence of Sensor Dynamics in Estimation of Reactor Noise Signals." 
