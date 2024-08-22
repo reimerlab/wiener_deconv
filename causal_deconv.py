@@ -102,6 +102,3 @@ def deconvolve_causal(trace, time, falltime, W = None):
 # mean-zero reintegration
 def stable_quadr(x):
     return np.cumsum(x-np.mean(x))
-
-def plot_impulse_response(H):
-    pass
