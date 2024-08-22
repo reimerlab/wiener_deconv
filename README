@@ -10,7 +10,8 @@ This code also includes a method for estimating the regularization parameter W b
 Causal Wiener deconvolution (causal_deconv.py)
 This code was not used in (1) but is included here for research purposes. Causal Wiener deconvolution was implemented following the derivation in (2):
 
-
+Test notebook (test_deconv.py)
+Notebook for testing the noncausal deconvolution method
 
 
 1) Neyhart, E et al. (2024; in press) Cortical acetylcholine dynamics are predicted by cholinergic axon activity and behavior state. Cell Reports.
