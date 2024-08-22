@@ -1,4 +1,4 @@
-### weiner_deconv: Wiener deconvolution methods for estimating concentration dynamics from fluorescence traces
+#### ```weiner_deconv```: Wiener deconvolution methods for estimating concentration dynamics from fluorescence traces
 
 ##### Noncausal Wiener deconvolution (deconv.py)
 These are functions for computing Wiener deconvolution and denoised reconstruction of a 1D (e.g. fluorescence) time-series as in ref. 1. Here, concentrations are estimated using a time-domain representation of the
@@ -15,5 +15,6 @@ Notebook for testing the noncausal deconvolution method.
 ##### Fluorescence data (fluorescence_detrended.csv)
 Detrended fluorescence data for use in the test notebook.
 
+#### References
 1) Neyhart, E et al. (2024; accepted) Cortical acetylcholine dynamics are predicted by cholinergic axon activity and behavior state. Cell Reports.
 2) Lindell, Elisabeth. (2004) "On the Influence of Sensor Dynamics in Estimation of Reactor Noise Signals." 
